@@ -1,1 +1,106 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "a2d0f65314163c249d4ce2e868c210f585823b701e45fc28ce12887fbc8f72a4"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e475f1f0d57e5e3b7ca929fa324dfa5df49ab8fabf4c539e8ca1a52f36ddaa56"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "777633dc1beb41da2bac9d7607036730c2bdcd9c4610a45addc90826eeacf4ae"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "17401aef8bc238b849742797fe200a7adaceff18d6944fea24809b4f35743d0a"
+metafile = true
+
+[[files]]
+file = "mods/better-sign-edit.pw.toml"
+hash = "0ba4100245de9fa53af8681596dc3aebb1a1d7a287334367743355f24126f1e7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0283f92e47b139169f3017ad1e3abbc5dc175518178e44de639e76817fa4e90b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "358105b652a698c4db5cecdab9b2eb4258ceaae7ceac9bff0ac754078f228576"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "91d54f60e7536b645e126966d21b861659e16c146053f06d4f414f897e36d4e5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "78411f2227f06fc916f8f725638f4e7a3e3a277c8e3b893bccc03c003f605c5c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "646c6a876a416cc4460bac27b64ae0de5db85bc752313b15f63feeb639fb487f"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "49dc533c95eb9f192b12b32a7146df52511f0d9f734008672c6ea464e6524073"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c7458c123d43a73ee286e35058a0976695cbdb9133512246e1f6564171a6cb6c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "1ade7d5507020f8fdc26d724600c1fa4fc78ca9aa1cde13293292216ae611e9c"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "c8355f7e8da4083820c26b0f89bb2997c404675709c8702df0428a55f5c0aa6b"
+metafile = true
+
+[[files]]
+file = "mods/mastercutter.pw.toml"
+hash = "51b3ff04265d5057bacee87644a23e28c404d863195091732aa9488521024543"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "caa33b35ac0f524ed36a4fbb37bddcf91180337bd400f81f69e39f9bc63a8f62"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "d2adde2893124ac957c83a1911ff87ed6deefbf7bdafa8982141e4d88ba57a37"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "b5bb77b6623458f6d2abfeaaec01d770f35f737d1ec91283c2ac1f5135256edd"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "d3da034628621d533b7abc28841a1c63240654cd3039a3f87f5fcef544619efb"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "ba30993f37856e351c38de02fb1393095e455775ca06e1a0a0b70e574f77bec5"
+metafile = true

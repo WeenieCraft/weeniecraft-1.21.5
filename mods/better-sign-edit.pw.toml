@@ -1,0 +1,13 @@
+name = "Better Sign Edit"
+filename = "better-sign-edit-1.1.1-mc1.20.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LnbEnCHn/versions/JPqrXcCq/better-sign-edit-1.1.1-mc1.20.5.jar"
+hash-format = "sha1"
+hash = "f68ff3135e468ccd9447c656236c2a95550ba6a5"
+
+[update]
+[update.modrinth]
+mod-id = "LnbEnCHn"
+version = "JPqrXcCq"
