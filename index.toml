@@ -9,6 +9,10 @@ file = "config/universal-graves/config.json"
 hash = "9f2e708613ed4348e909077f0917cad960b8b1ad14d1dcbd00e8daaef650c609"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "6dc84e81fd4c50028a06e63003dd8ad24fbdae0bc49f95514ad92c6e46eba12a"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "a2d0f65314163c249d4ce2e868c210f585823b701e45fc28ce12887fbc8f72a4"
 metafile = true
