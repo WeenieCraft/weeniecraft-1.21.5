@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "85944d1c64e90febed83b821c76bfd7d21ae418caa304f3efbfb0cf2c9ba6f3b"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "9f2e708613ed4348e909077f0917cad960b8b1ad14d1dcbd00e8daaef650c609"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "a2d0f65314163c249d4ce2e868c210f585823b701e45fc28ce12887fbc8f72a4"
 metafile = true
@@ -104,3 +112,7 @@ metafile = true
 file = "mods/vanilla-permissions.pw.toml"
 hash = "ba30993f37856e351c38de02fb1393095e455775ca06e1a0a0b70e574f77bec5"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "ac1841c073cfa4a9cbc4ab64359ffe34de1c46d97c0c43da6a943741f288b9ee"
