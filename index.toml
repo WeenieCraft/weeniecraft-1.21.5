@@ -114,5 +114,10 @@ hash = "ba30993f37856e351c38de02fb1393095e455775ca06e1a0a0b70e574f77bec5"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ad34752b7e8925a3d94df75494af514602e00099320c6bca52a1c9373f28cc4e"
+metafile = true
+
+[[files]]
 file = "server.properties"
 hash = "ac1841c073cfa4a9cbc4ab64359ffe34de1c46d97c0c43da6a943741f288b9ee"
