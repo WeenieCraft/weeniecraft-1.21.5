@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "78411f2227f06fc916f8f725638f4e7a3e3a277c8e3b893bccc03c003f605c5c"
+hash = "6a519f6756788faa2c1e904a2b2c28cb8228927c23eea6c223da9a7272721317"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "49dc533c95eb9f192b12b32a7146df52511f0d9f734008672c6ea464e6524073"
+hash = "84a35a3651320b74ecf5bc8396037cfc2dfe0befcba70be423ba333cbbf84e73"
 metafile = true
 
 [[files]]
@@ -99,12 +99,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "d2adde2893124ac957c83a1911ff87ed6deefbf7bdafa8982141e4d88ba57a37"
+hash = "7eb52c42d2c9d61ac1671b5965a2ad9721eff863af4896d2882e74f5176fd296"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "b5bb77b6623458f6d2abfeaaec01d770f35f737d1ec91283c2ac1f5135256edd"
+hash = "4cdaf21d8b97976f6fde2df65e477b80063c114e452094dd3c3e351c3d3fb18e"
 metafile = true
 
 [[files]]
