@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "17401aef8bc238b849742797fe200a7adaceff18d6944fea24809b4f35743d0a"
+hash = "1720d34dde829929ae328c037cd256be6e20548171ecf777572ebb1b37857978"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a519f6756788faa2c1e904a2b2c28cb8228927c23eea6c223da9a7272721317"
+hash = "883b3310f0cc4c3915957eda03ccf516b042f916c1494960ee849d2c9e91908b"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "84a35a3651320b74ecf5bc8396037cfc2dfe0befcba70be423ba333cbbf84e73"
+hash = "65b69f2bc497cf3067ef01db9f41b6ceccb617340887cf6228fa5018f72fd29c"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "7eb52c42d2c9d61ac1671b5965a2ad9721eff863af4896d2882e74f5176fd296"
+hash = "5ed2e83082d8915153fa915f18a6daeed9cd51fbe874e371c577dbced51d4dbd"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "ba30993f37856e351c38de02fb1393095e455775ca06e1a0a0b70e574f77bec5"
+hash = "3bc0ae9c5798a3f853d54767945ddce0a6113e3e3d7a3f28caa3f69676e41c43"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ad34752b7e8925a3d94df75494af514602e00099320c6bca52a1c9373f28cc4e"
+hash = "e763769d0a2927061a28370c320fb4d17da6b32099352a29bd63b11d336feb82"
 metafile = true
 
 [[files]]
